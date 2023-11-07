@@ -14,11 +14,12 @@ The purpose of this pen test is to identify any vulnerabilities that rely on the
 <h2>Discovery/ Finger Printing</h2>
 <p align="center">
 
-<img src="https://github.com/zeinebAhmed2/ProjectAndromeda/blob/main/NetworkMap.png" height="80%" width="80%" alt="Disk Sanitization Steps />
+<img src="https://github.com/zeinebAhmed2/ProjectAndromeda/blob/main/NetworkMap.png" height="60%" width="60%" alt="Disk Sanitization Steps" />
 <br />
 <br />
+<p> Using NMAP to scan the network, five systmes of interest were mainly discovered. The IP addresses, open ports and services running were discovered through the scans.</p>
 
-<h2>Program walk-through:</h2>
+<h2>Vulnerability Assessment</h2>
 
 <p align="center">
 Launch the utility: <br/>
