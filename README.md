@@ -11,9 +11,12 @@ The purpose of this pen test is to identify any vulnerabilities that rely on the
 - <b>Metasploit</b>
 - <b>theHarvester</b> 
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
+<h2>Discovery/ Finger Printing</h2>
+<p align="center">
+Launch the utility: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 <h2>Program walk-through:</h2>
 
